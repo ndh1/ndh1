@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ndh1
+- 👋 Hi, I’m Nguyen Dinh Huong
 - 👀 I’m interested in develop C/C++
 - 🌱 I’m currently learning C/C++ and Swift
 - 💞️ I’m looking to collaborate on Fresher
