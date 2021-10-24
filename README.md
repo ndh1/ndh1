@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nguyen Dinh Huong
-- 👀 I’m interested in develop C/C++ and C#
-- 🌱 I’m currently learning C/C++ and Swift
+- 👀 I’m interested in develop Frontend
+- 🌱 I’m currently learning anything about Frontend
 - 💞️ I’m looking to collaborate on Fresher
 - 📫 How to reach me : fb.com/huongoiii
 
